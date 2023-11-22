@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="UNA" src="./site/templates/styles/images/faculdade-una.png" />
+    <img alt="UNA" src="faculdade-una.png" />
     <br>
     TechTerms - Glossário Digital
 </h1>
